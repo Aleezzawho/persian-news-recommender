@@ -1,0 +1,22 @@
+# Dataset (not redistributed, see README)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Course/exercise artifacts
+submission.csv
+result.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
